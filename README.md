@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
 ## Date: 26/9/25
+##NAME:SANTHOSH KUMAR S-25017512 
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -27,7 +28,7 @@ Execute the programs and publish them.
 ## CODE
 
 ```
-mapcode
+map.html
  <head>
     <title>
         erode 
